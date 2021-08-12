@@ -208,12 +208,12 @@
             android:onClick="onDot"/>
 
         <Button
-            android:id="@+id/btnResult"
+            android:id="@+id/btnEquals"
             android:backgroundTint="#FFA500"
             android:textSize="18dp"
             android:layout_marginLeft="2dp"
             android:layout_span="2"
             android:text="="
-            android:onClick="onResult"/>
+            android:onClick="onEquals"/>
     </TableRow>
 </TableLayout>
